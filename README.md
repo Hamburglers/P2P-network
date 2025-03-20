@@ -142,6 +142,7 @@ A more realistic speedup will be calculating the proportion of code parallelized
 and using Amdahl's law to calculate the optimal speedup.
 
 # TREE
+```
 ── config.cfg
 ├── high_performance
 │   ├── 10_15.png
@@ -287,3 +288,4 @@ and using Amdahl's law to calculate the optimal speedup.
     └── tree
         ├── merkletree.c
         └── merkletree_parallel.c
+```
